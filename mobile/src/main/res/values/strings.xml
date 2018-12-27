@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <string name="lblName">Nombre</string>
+    <string name="lblDescription">Descripcion</string>
+    <string name="btnAdd">Agregar</string>
+    <string name="btnList">Listar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
